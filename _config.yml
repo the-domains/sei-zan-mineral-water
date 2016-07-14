@@ -1,0 +1,28 @@
+name: Sei Zan Mineral Water
+favicon: null
+layout_spectrum: 0.8346098908223212
+typography_spectrum: 0.939761359244585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.07177134323865175
+  lightness: 0.1289378642104566
+  saturation: 0.7496683273930103
+  rhythmicContrast: 0.48291810555383563
+purpose: []
