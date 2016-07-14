@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Seizan Mineral Water
-datePublished: '2016-07-14T11:01:29.344Z'
-dateModified: '2016-07-14T10:58:59.264Z'
+datePublished: '2016-07-14T11:22:39.471Z'
+dateModified: '2016-07-14T11:21:57.399Z'
 title: Seizan Natural Mineral Water
 author:
   - name: E. G.
@@ -28,17 +28,22 @@ Seizan Mineral Water
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44cda880-1026-4c4d-9c05-ec13daa03635.jpg)
 
-We have automatic machine for filling process. 
-
 Facebook: chiangdao.mineralwater
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0f0df76-5475-4380-bdfc-4e0381c937bd.jpg)
 
-;lziydgp\[zseobiv\[oiz\[oinugv\]\[dpug\]zpvoefugzdpounfg\]pboxf'zpfogui'zdopfugho\[bxdfu\[sdoufg\[pdzu
+Generally a natural mineral water must have an underground or geological origin and a stable chemical composition, and mustn't undergo chemical treatment.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86d5e693-2798-44d3-8976-1900c98f2ea6.jpg)
 
-lsundypfiuzynpdfvhpdfihnvzn\[lnhifpnozidrg\[na'etgvrs'ldrjg\[asiopuefgasopj\['eropgj\[eprjogsldjfgvadpjg\[oaingv\[aprvnapocm\[aperu\[oaeijrgv\[zdocgmp\[sdp\[fgoiuaergv\[zps
+Natural mineral water is water from the underground, protected from pollution. Chemical characteristics should be stable. It must be likely to provide, in some cases, its health-promoting properties.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b0326e9-2758-47f7-bbb2-6dc1df8068a5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8940173f-b441-4e87-8437-2b849f0a1434.jpg)
+
+Mineral waters often have significant magnesium levels and generally low nitrate levels. The calcium hardness is very variable, their interest comes from the presence of rare substances such as fluorine or trace elements. Mineral water can be classified according to their mineral contents: 
+
+very little mineralized waters, 
+
+calcic sulfated waters 
+
+sodium bicarbonate waters. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8940173f-b441-4e87-8437-2b849f0a1434.jpg)
 
 [0]: null
 [1]: https://www.facebook.com/chiangdao.mineralwater?fref=ts
