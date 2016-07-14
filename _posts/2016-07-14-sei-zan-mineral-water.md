@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Seizan Mineral Water
-datePublished: '2016-07-14T08:55:21.324Z'
-dateModified: '2016-07-14T08:53:05.764Z'
+datePublished: '2016-07-14T08:58:57.744Z'
+dateModified: '2016-07-14T08:55:48.978Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-14-sei-zan-mineral-water.md
