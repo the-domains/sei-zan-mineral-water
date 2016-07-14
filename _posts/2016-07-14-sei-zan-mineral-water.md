@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Sei Zan Mineral Water
-datePublished: '2016-07-14T08:33:56.929Z'
-dateModified: '2016-07-14T08:15:01.291Z'
+datePublished: '2016-07-14T08:36:49.288Z'
+dateModified: '2016-07-14T08:36:46.752Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-14-sei-zan-mineral-water.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: sei-zan-mineral-water/index.html
 _type: Article
 
