@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Seizan Mineral Water
-datePublished: '2016-07-14T09:59:30.988Z'
-dateModified: '2016-07-14T09:53:38.624Z'
-title: ''
-author: []
+datePublished: '2016-07-14T10:05:40.316Z'
+dateModified: '2016-07-14T09:59:50.054Z'
+title: Seizan Natural Mineral Water
+author:
+  - name: E. G.
+    url: 'https://en.gravatar.com/mailtews'
 sourcePath: _posts/2016-07-14-sei-zan-mineral-water.md
 authors: []
 publisher: null
@@ -17,7 +19,7 @@ url: sei-zan-mineral-water/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e232855-0c94-44ce-8fc3-0e62e6f0f8c7.jpg)
+![Seizan Natural Mineral Water (new conditioning)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e232855-0c94-44ce-8fc3-0e62e6f0f8c7.jpg)
 
 Seizan Mineral Water
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46eb4537-752e-4ed3-abc1-578f1e2b99e0.jpg)
