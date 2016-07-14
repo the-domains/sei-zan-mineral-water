@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Seizan Mineral Water
-datePublished: '2016-07-14T10:27:40.193Z'
-dateModified: '2016-07-14T10:27:37.227Z'
+datePublished: '2016-07-14T11:01:29.344Z'
+dateModified: '2016-07-14T10:58:59.264Z'
 title: Seizan Natural Mineral Water
 author:
   - name: E. G.
