@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Seizan Mineral Water
-datePublished: '2016-07-14T09:09:47.791Z'
-dateModified: '2016-07-14T08:59:14.053Z'
+datePublished: '2016-07-14T09:34:01.246Z'
+dateModified: '2016-07-14T09:33:59.700Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-14-sei-zan-mineral-water.md
@@ -22,7 +22,11 @@ _type: Article
 Seizan Mineral Water
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46eb4537-752e-4ed3-abc1-578f1e2b99e0.jpg)
 
-;jhascfpocbpseoibyfo\[siydcvo\[sdfhvo\[svdibyafo\[zsbyiiiiiidovphbzsvo\[if\[z
+Seizan Natural Mineral Water is healthy water and origins from Doi Luang, The third mountain-top of the Kingdom of Thailand at Chiang Dao District, Chiang Mai Province. Its PH level is between7.8-8\. A PH of 7.0, means medium level for health. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44cda880-1026-4c4d-9c05-ec13daa03635.jpg)
+
+We have automatic machine for filling process. 
+
+Facebook: chiangdao.mineralwater
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0f0df76-5475-4380-bdfc-4e0381c937bd.jpg)
 
 ;lziydgp\[zseobiv\[oiz\[oinugv\]\[dpug\]zpvoefugzdpounfg\]pboxf'zpfogui'zdopfugho\[bxdfu\[sdoufg\[pdzu
