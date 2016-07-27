@@ -5,15 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-18T11:40:41.732Z'
-dateModified: '2016-07-15T13:05:20.604Z'
+datePublished: '2016-07-27T06:18:07.501Z'
+dateModified: '2016-07-24T15:02:56.253Z'
 title: Seizan Natural Mineral Water
 author:
   - name: E. G.
     url: 'https://en.gravatar.com/mailtews'
 sourcePath: _posts/2016-07-14-sei-zan-mineral-water.md
+via: {}
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: sei-zan-mineral-water/index.html
 _type: Article
